@@ -30,7 +30,8 @@ import cv2
 import numpy as np
 import pytesseract
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Akshay\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+#pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Akshay\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 
 # Load image, grayscale, apply sharpening filter, Otsu's threshold
 image = cv2.imread('D:\infosys_intern\STMS\data\ss3.png')
