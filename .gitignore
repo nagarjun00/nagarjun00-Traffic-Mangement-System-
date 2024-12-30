@@ -166,6 +166,7 @@ output
 venv
 data
 yolov8x.pt
+yolo11x.pt
 
 testing
 .idea
