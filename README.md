@@ -22,8 +22,8 @@ This project implements an intelligent traffic management system utilizing Autom
 ## 🛠️ Setup and Installation
 1. Clone the repository:
 ```bash
-git clone 
-cd anpr-atcc-traffic-management
+git clone https://github.com/nagarjun00/nagarjun00-Traffic-Mangement-System-/tree/mainhttps://github.com/nagarjun00/nagarjun00-Traffic-Mangement-System-/tree/main
+cd Traffic-Mangement-System-
 ```
 
 2. Create and activate virtual environment (recommended):
@@ -62,7 +62,7 @@ python visualize.py
 ```
 
 ## 📄 License
-
+LICENSE
 
 ## 📞 Contact
 nagarjunsm00@gmail.com
