@@ -62,7 +62,7 @@ python visualize.py
 ```
 
 ## 📄 License
-LICENSE
-
+[LICENSE
+](https://github.com/nagarjun00/nagarjun00-Traffic-Mangement-System-/commit/65cf1af0f5d81523282324a18833c3dccc71d2db)
 ## 📞 Contact
 nagarjunsm00@gmail.com
